@@ -1,9 +1,10 @@
 
-# cognitivefx
+# Cognitive FX
 
 Collection of resources around [Cognitive FX](https://www.cognitivefxusa.com/).
 
-- [cognitivefx](#cognitivefx)
+**Table of contents:**
+- [Cognitive FX](#cognitive-fx)
   - [Feedback? Input? Suggestions?](#feedback-input-suggestions)
   - [Stories](#stories)
     - [Legend](#legend)
