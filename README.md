@@ -1,6 +1,10 @@
 # cognitivefx
 
-Collection of resources around Cognitive FX.
+Collection of resources around [Cognitive FX](https://www.cognitivefxusa.com/).
+
+## Feedback? Input? Suggestions?
+
+If you have any suggestions or feedback, know any valuable links or resources – just basically if there's anything you'd like to add to this page, please send me a message on [eelke@boezeman.com](mailto:eelke@boezeman.com).
 
 ## Stories
 
@@ -24,11 +28,12 @@ Collection of resources around Cognitive FX.
 - [🇳🇱🇺🇸👩‍🎓 Na zinloos geweld hoop op herstel in Amerika - doneerdoel.nl](https://www.doneerdoel.nl/actie/1561/na-zinloos-geweld-hoop-op-herstel-in-amerika)
 - [🇳🇱👩‍🎓 Help Jurgen op weg naar herstel](https://www.doneeractie.nl/help-jurgen-op-weg-naar-herstel/-31898)
 - [🇳🇱👩‍🎓 **Fibbe & Food**](https://www.fibbeandfood.com/personal)
-- [🇳🇱👩‍🎓 **Mijn hersenplan – Van ongeval naar herstel van hersenletsel**](https://mijnhersenplan.nl/)
+- [🇳🇱👩‍🎓 **Mijn hersenplan – Van ongeval naar herstel van hersenletsel**](https://mijnhersenplan.nl/?page_id=638)
 - [🇳🇱👩‍🎓 **Myrthes serie: In Utah werden in een week mijn hersenen ‘gereset’.**](https://www.dewereldwijven.com/2019/05/09/myrthes-serie-in-utah-werden-in-een-week-mijn-hersenen-gereset/)
 - [🇳🇱👩‍🎓 **Eva Krook - Over hoop na hersenschudding (PCS)**](https://www.linkedin.com/pulse/over-hoop-na-hersenschudding-pcs-eva-krook/), [“Ik word nooit meer de oude, maar ik ben wel de nieuwe.” - radio interview](https://www.nhradio.nl/ik-word-nooit-meer-de-oude-maar-ik-ben-wel-de-nieuwe/)
 - [🇳🇱👩‍🎓 **Alies Kool - Ik ben er weer (nou ja, bijna)**](https://www.linkedin.com/pulse/ik-ben-er-weer-nou-ja-bijna-alies-kool/)
-- [🇳🇱👩‍🎓 **Martine Timmerman - Zo Goed Als Nieuw**](https://www.linkedin.com/pulse/zo-goed-als-nieuw-martine-timmerman), [Volkskrant: Binnen een week hersteld van hersenletsel: revolutionaire therapie of dure placebobehandeling?](https://www.volkskrant.nl/wetenschap/binnen-een-week-hersteld-van-hersenletsel-revolutionaire-therapie-of-dure-placebobehandeling~bec399db/?fbclid=IwAR0mO5SRWl76CqsMMCm0-vPZ1jTgNnNy_p0ErWvxXywNEdCqbcsZO6HvSk0), [herautonline.nl](https://www.herautonline.nl/?p=75261)
+- [🇳🇱👩‍🎓 **02/2019 - Martine Timmerman - Zo Goed Als Nieuw**](https://www.linkedin.com/pulse/zo-goed-als-nieuw-martine-timmerman), [Volkskrant: Binnen een week hersteld van hersenletsel: revolutionaire therapie of dure placebobehandeling?](https://www.volkskrant.nl/wetenschap/binnen-een-week-hersteld-van-hersenletsel-revolutionaire-therapie-of-dure-placebobehandeling~bec399db/?fbclid=IwAR0mO5SRWl76CqsMMCm0-vPZ1jTgNnNy_p0ErWvxXywNEdCqbcsZO6HvSk0), [herautonline.nl](https://www.herautonline.nl/?p=75261)
+- [🇳🇱🙇‍ Na 8 jaar kans op genezing - dreamordonate.com](https://en.dreamordonate.com/dromen/na-8-jaar-weer-kans-op-genezing/)
 - [🇳🇱🇺🇸🙇‍ Een nieuw brein voor Marcia - doneeractie.nl](https://www.doneeractie.nl/een-nieuw-brein-voor-marcia/-33094)
 - [🇳🇱🙇‍ Amber wil haar leven terug! - doneeractie.nl](https://www.doneeractie.nl/amber-wil-haar-leven-terug/-34639)
 - [🇳🇱🙇‍ ‍Op weg naar een hoopgevend avontuur voor Angelique - doneeractie.nl](https://www.doneeractie.nl/op-weg-naar-een-hoopgevend-avontuur-voor-angelique/-35373)
@@ -50,3 +55,12 @@ Collection of resources around Cognitive FX.
 ## Experts
 
 - [www.neuronhersenletselpraktijk.nl artikel](https://www.neuronhersenletselpraktijk.nl/_downloads/51231806), [website](https://www.neuronhersenletselpraktijk.nl/_downloads/51231806)
+
+## To do
+
+- Scientific research
+- Official documentation
+- More stories from US
+- Videos
+- More news paper articles
+- Anything else, let me know: [eelke@boezeman.com](mailto:eelke@boezeman.com).
