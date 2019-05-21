@@ -1,6 +1,16 @@
+
 # cognitivefx
 
 Collection of resources around [Cognitive FX](https://www.cognitivefxusa.com/).
+
+- [cognitivefx](#cognitivefx)
+  - [Feedback? Input? Suggestions?](#feedback-input-suggestions)
+  - [Stories](#stories)
+    - [Legend](#legend)
+    - [People](#people)
+  - [Newspaper articles](#newspaper-articles)
+  - [Experts](#experts)
+  - [To do](#to-do)
 
 ## Feedback? Input? Suggestions?
 
