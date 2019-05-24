@@ -46,6 +46,7 @@ If you have any suggestions or feedback, know any valuable links or resources �
 - [🇳🇱👩‍🚀 Help Dani naar Utah! - doneeractie.nl](https://www.doneeractie.nl/help-dani-naar-utah/-35179)
 - [🇳🇱🙇‍ Na 8 jaar kans op genezing - dreamordonate.com](https://en.dreamordonate.com/dromen/na-8-jaar-weer-kans-op-genezing/)
 - [🇳🇱🇺🇸🙇‍ Een nieuw brein voor Marcia - doneeractie.nl](https://www.doneeractie.nl/een-nieuw-brein-voor-marcia/-33094)
+- [🇳🇱🙇‍ Sincere Sue](https://sinceresue.com/)
 - [🇳🇱🙇‍ Amber wil haar leven terug! - doneeractie.nl](https://www.doneeractie.nl/amber-wil-haar-leven-terug/-34639)
 - [🇳🇱🙇‍ ‍Op weg naar een hoopgevend avontuur voor Angelique - doneeractie.nl](https://www.doneeractie.nl/op-weg-naar-een-hoopgevend-avontuur-voor-angelique/-35373)
 - [🇳🇱🙇‍ Maak herstel voor mij mogelijk na mijn ongeluk - doneeractie.nl](https://www.doneeractie.nl/maak-herstel-voor-mij-mogelijk-na-mijn-ongeluk/-32297)
@@ -61,7 +62,9 @@ If you have any suggestions or feedback, know any valuable links or resources �
 
 ## Newspaper articles
 
-- [🇳🇱 Volkskrant: Binnen een week hersteld van hersenletsel: revolutionaire therapie of dure placebobehandeling?](https://www.volkskrant.nl/wetenschap/binnen-een-week-hersteld-van-hersenletsel-revolutionaire-therapie-of-dure-placebobehandeling~bec399db/?fbclid=IwAR0mO5SRWl76CqsMMCm0-vPZ1jTgNnNy_p0ErWvxXywNEdCqbcsZO6HvSk0)
+- [🇳🇱 26 April 2019 - Volkskrant: Binnen een week hersteld van hersenletsel: revolutionaire therapie of dure placebobehandeling?](https://www.volkskrant.nl/wetenschap/binnen-een-week-hersteld-van-hersenletsel-revolutionaire-therapie-of-dure-placebobehandeling~bec399db/?fbclid=IwAR0mO5SRWl76CqsMMCm0-vPZ1jTgNnNy_p0ErWvxXywNEdCqbcsZO6HvSk0)
+- [🇳🇱 01 May 2019 - Nederlands Dagblad: Jarenlang pijn en vermoeid, nu genezen](https://issuu.com/nedagdnk/docs/nd_01-mei-2019/32)
+- [🇳🇱 26 April 2019 - Nederlands Dagblad: Nederlanders lopen deur plat bij Amerikaanse hersenkliniek (paywall)](https://issuu.com/nedagdnk/docs/nd_01-mei-2019/32)
 
 ## Experts
 
