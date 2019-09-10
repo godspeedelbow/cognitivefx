@@ -30,6 +30,7 @@ If you have any suggestions or feedback, know any valuable links or resources �
 
 ### People
 
+- [🇳🇱💆‍ **08/2019 - CognitiveFX bij Jinek: "Je bent jezelf niet meer"**](https://evajinek.kro-ncrv.nl/fragmenten/je-bent-jezelf-niet-meer-zegt-quirien-over-de-schade-na-een-hersenschudding) (Quirien en Koert-Jan)
 - [🇳🇱💆‍ **05/2019 - Jens naar Utah**](https://jensnaarutah.video.blog/)
 - [🇳🇱🇺🇸👩‍🎓 05/2019 - Na zinloos geweld hoop op herstel in Amerika - doneerdoel.nl](https://www.doneerdoel.nl/actie/1561/na-zinloos-geweld-hoop-op-herstel-in-amerika)
 - [🇳🇱👩‍🎓 **04/2019 - Fibbe & Food**](https://www.fibbeandfood.com/personal)
